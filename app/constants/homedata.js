@@ -1,0 +1,1 @@
+export const HOME_AD_DATA = 'HOME_AD_DATA'
